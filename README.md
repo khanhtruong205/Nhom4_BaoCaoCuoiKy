@@ -5,7 +5,7 @@ Dự án xây dựng hệ thống phân tích hành vi khách hàng, khuyến ng
 
 ## Dataset
 Bộ dữ liệu sử dụng: Brazilian E-Commerce Public Dataset by Olist.
-
+Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 Các file chính gồm:
 - `olist_customers_dataset.csv`
 - `olist_orders_dataset.csv`
